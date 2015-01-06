@@ -1,5 +1,0 @@
-c:\Users\juegest\documents\visual studio 2013\Projects\geom+gui\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
-c:\Users\juegest\documents\visual studio 2013\Projects\geom+gui\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-c:\Users\juegest\documents\visual studio 2013\Projects\geom+gui\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-c:\Users\juegest\documents\visual studio 2013\Projects\geom+gui\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-c:\Users\juegest\documents\visual studio 2013\Projects\geom+gui\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
